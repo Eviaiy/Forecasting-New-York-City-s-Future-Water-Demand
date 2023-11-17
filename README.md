@@ -15,31 +15,6 @@ The dataset used in this project is available on Kaggle: [NY Water Consumption i
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-What things you need to install the software and how to install them:
-
-- Python 3.x
-- Jupyter Notebook
-- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels (Install these using pip or conda)
-
-### Installing
-
-A step by step series of examples that tell you how to get a development environment running:
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/ny-water-demand-forecasting.git
-   ```
-2. Navigate to the cloned directory:
-   ```
-   cd ny-water-demand-forecasting
-   ```
-3. Install the required libraries:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
