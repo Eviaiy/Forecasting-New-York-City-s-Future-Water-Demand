@@ -11,10 +11,6 @@ This project applies machine learning and time series forecasting techniques to 
 
 The dataset used in this project is available on Kaggle: [NY Water Consumption in the New York City](https://www.kaggle.com/datasets/new-york-city/ny-water-consumption-in-the-new-york-city). This dataset includes annual figures on water consumption in New York City from 1979 to 2019.
 
-## Author
-
-- **Meriem Si** - *Initial work* - [Eviaiy](https://github.com/Eviaiy)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
